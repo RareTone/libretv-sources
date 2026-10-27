@@ -1,0 +1,32 @@
+{
+  "name": "资源.zip 转换的点播源（未验证）",
+  "version": 2,
+  "sources": [
+    {
+      "name": "豪华资源",
+      "url": "https://hhzyapi.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "魔都资源",
+      "url": "https://www.mdzyapi.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "豆瓣资源",
+      "url": "https://dbzy.tv/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "电影天堂资源",
+      "url": "https://caiji.dyttzyapi.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "非凡影视",
+      "url": "http://ffzy5.tv/api.php/provide/vod",
+      "isAdult": false
+    }
+  ],
+  "liveSources": []
+}
