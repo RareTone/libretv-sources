@@ -4,7 +4,7 @@
 
 ## 订阅地址
 
-以下是 `RareTone/libretv-sources` 的预定 Pages 地址；首次发布需在 Actions 中确认 **Deploy GitHub Pages** 成功后使用。
+以下订阅地址由 `RareTone/libretv-sources` 的 GitHub Pages 提供；最新部署状态见 [Deploy GitHub Pages](https://github.com/RareTone/libretv-sources/actions/workflows/pages.yml)。
 
 | 文件 | HTTPS 订阅地址 | 初始点播源数量 | 用途 |
 | --- | --- | ---: | --- |
@@ -69,4 +69,4 @@ Pages 的网站产物仅含两份 JSON；公开 GitHub 仓库中的 README、脚
 
 ## 公开共享检查
 
-提交前确认源配置允许公开共享，不包含密码、Token、Cookie、私有地址或个人信息。初始静态检查未发现这些内容，但源文件没有附带分发授权说明，公开分享权限应由提供者确认。不要提交本机完整设置备份、网络配置或凭证。此仓库只托管配置，不托管影视文件。
+提交前确认源配置允许公开共享，不包含密码、Token、Cookie、私有地址或个人信息。初始静态检查未发现这些内容，初次公开发布已由配置提供者确认；后续新增或更改的源仍需审查共享权限。不要提交本机完整设置备份、网络配置或凭证。此仓库只托管配置，不托管影视文件。
